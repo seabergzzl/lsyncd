@@ -1,3 +1,9 @@
+文档：
+https://www.toutiao.com/article/7101223334582452771/?app=news_article&timestamp=1653413039&use_new_style=1&req_id=20220525012359010150105214101D69D5&group_id=7101223334582452771&share_token=33f76295-4b47-4e9d-b9f3-2582d2d704b8&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share&source=m_redirect
+http://www.ruanyifeng.com/blog/2020/08/rsync.html
+
+
+
 Lsyncd -- Live Syncing (Mirror) Daemon
 ======================================
 Description
